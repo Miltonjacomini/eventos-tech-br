@@ -1,3 +1,11 @@
+---
+name: ADD EVENTO
+about: MODELO DE CADASTRO DE EVENTO
+title: "[LOCAL] [FORMATO] Dev Leaders [TIPO]"
+labels: HELP WANTED
+assignees: miltonjacomini
+
+---
 
 <!-- 
 ==================================================
